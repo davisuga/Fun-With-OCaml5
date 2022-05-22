@@ -1,0 +1,4 @@
+(executable
+ (public_name FunWithOCaml5)
+ (name main)
+ (libraries FunWithOCaml5))
